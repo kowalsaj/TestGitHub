@@ -1,5 +1,5 @@
 # Professional Biography for Adam Kowalski
-##Contact Information 
+## Contact Information 
 Email Address: kowalsaj@mail.uc.edu
 Phone Number: 567-298-0459
 ### Co-op Work Experience
