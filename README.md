@@ -1,6 +1,6 @@
 # Professional Biography for Adam Kowalski
 ## Contact Information  
-Email Address: kowalsaj@mail.uc.edu  \newline
+Email Address: kowalsaj@mail.uc.edu<br/>
 Phone Number: 567-298-0459
 ### Co-op Work Experience
 **Premier System Integrator**                                                                                **Middletown, Ohio**
